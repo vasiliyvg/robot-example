@@ -1,0 +1,11 @@
+pytest-playwright == 0.4.4
+pytest-xdist == 3.5.0
+pytest-html==4.1.1
+pytest-base-url==2.1.0
+robotframework==7.0.1
+robotframework-browser==18.8.0
+robotframework-databaselibrary==1.4.4
+robotframework-requests==0.9.7
+robotframework-appiumlibrary==2.1.0
+robotframework-pabot==2.18.0
+robotframework-robocop==5.3.0

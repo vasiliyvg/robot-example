@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  the-internet:
+    image: gprestes/the-internet
+    container_name: the-internet-app
+    ports:
+      - "7080:5000"
